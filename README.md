@@ -1,2 +1,7 @@
-# eduJavaProject
-Java &amp; Maven dependancy Project - JavaWebApplication Project
+# devops
+CI/CD Pipeline Building
+Test
+Test01
+Test02
+
+Gitflow Commands Execution
