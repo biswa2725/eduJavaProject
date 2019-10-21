@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 
 	<name>devops</name>
-	<description>DevOps Demo Project</description>
+	<description>DevOps by Biswa</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -39,9 +39,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:keshavkummari/devops.git</connection>
-		<developerConnection>scm:git:git@github.com:keshavkummari/devops.git</developerConnection>
-		<url>git@github.com:keshavkummari/devops.git</url>
+		<connection>scm:git:git@github.com/biswa2725/eduJavaProject.git</connection>
+		<developerConnection>scm:git:git@github.com:biswa2725/eduJavaProject.git</developerConnection>
+		<url>git@github.com:keshavkummari/eduJavaProject.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
